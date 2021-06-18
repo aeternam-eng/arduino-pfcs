@@ -1,0 +1,23 @@
+{
+    "name": "Arduino PFCS",
+    "version": "1.0.0",
+    "description": "A PFCS Client for Arduino based on Client",
+    "keywords": "tcp, wifi, connection, pfcs, arduino",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/aeternam-eng/arduino-pfcs.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Hugo Brandão",
+        "email": "hugo.hb25@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
